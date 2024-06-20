@@ -1,0 +1,16 @@
+﻿  kamioni.c
+C:\Users\draga\source\repos\ProgKonacno\ProgKonacno\kamioni.c(28,17): warning C4098: 'dodajKamione': 'void' function returning a value
+C:\Users\draga\source\repos\ProgKonacno\ProgKonacno\kamioni.c(49,17): warning C4098: 'dodajKamione': 'void' function returning a value
+C:\Users\draga\source\repos\ProgKonacno\ProgKonacno\kamioni.c(56,17): warning C4098: 'dodajKamione': 'void' function returning a value
+C:\Users\draga\source\repos\ProgKonacno\ProgKonacno\kamioni.c(63,17): warning C4098: 'dodajKamione': 'void' function returning a value
+C:\Users\draga\source\repos\ProgKonacno\ProgKonacno\kamioni.c(71,17): warning C4098: 'dodajKamione': 'void' function returning a value
+C:\Users\draga\source\repos\ProgKonacno\ProgKonacno\kamioni.c(79,17): warning C4098: 'dodajKamione': 'void' function returning a value
+C:\Users\draga\source\repos\ProgKonacno\ProgKonacno\kamioni.c(87,17): warning C4098: 'dodajKamione': 'void' function returning a value
+C:\Users\draga\source\repos\ProgKonacno\ProgKonacno\kamioni.c(97,13): warning C4098: 'dodajKamione': 'void' function returning a value
+C:\Users\draga\source\repos\ProgKonacno\ProgKonacno\kamioni.c(218,25): warning C4477: 'fscanf' : format string '%f' requires an argument of type 'float *', but variadic argument 5 has type 'int *'
+C:\Users\draga\source\repos\ProgKonacno\ProgKonacno\kamioni.c(218,25): warning C4477: 'fscanf' : format string '%f' requires an argument of type 'float *', but variadic argument 6 has type 'int *'
+C:\Users\draga\source\repos\ProgKonacno\ProgKonacno\kamioni.c(242,23): warning C4477: 'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+C:\Users\draga\source\repos\ProgKonacno\ProgKonacno\kamioni.c(265,23): warning C4477: 'fprintf' : format string '%f' requires an argument of type 'double', but variadic argument 5 has type 'int'
+C:\Users\draga\source\repos\ProgKonacno\ProgKonacno\kamioni.c(265,23): warning C4477: 'fprintf' : format string '%f' requires an argument of type 'double', but variadic argument 6 has type 'int'
+C:\Users\draga\source\repos\ProgKonacno\ProgKonacno\kamioni.c(297,12): warning C4101: 'tempKamion': unreferenced local variable
+  ProgKonacno.vcxproj -> C:\Users\draga\source\repos\ProgKonacno\x64\Debug\ProgKonacno.exe
